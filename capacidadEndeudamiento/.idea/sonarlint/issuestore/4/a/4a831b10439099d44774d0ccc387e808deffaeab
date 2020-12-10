@@ -1,0 +1,27 @@
+
+M
+java:S1135"2Complete the task associated to this TODO comment.(à™ï–şÿÿÿÿ
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ı¢ÒŞ8·ààõã.
+j	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ì’ó8¹õŸñã.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–÷ÈË8èå‰ñã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®ÈÚ¶8ŒŒ°ñã.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èììîşÿÿÿÿ8ò¯Ø³â.
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(§®Å8ïš”ğã.
+a
+java:S1128"?Remove this unused import 'com.sun.javafx.css.CalculatedValue'.(Õ†Ñ‰úÿÿÿÿ8ÿÃ´â.
+j	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´åâ¯8¹õŸñã.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(ı¢ÒŞ8Ÿ¹àõã.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(¨‚’µúÿÿÿÿ8Â»Ñõã.
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(Ö¶¦€8¹õŸñã.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(‰œ¯òøÿÿÿÿ8¹õŸñã.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(®ÈÚ¶8Ğö°ñã.
+m	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œó©8¹õŸñã.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ñºÆöÿÿÿÿÿ8¹õŸñã.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¨‚’µúÿÿÿÿ8˜ŞÑõã.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(Õ†Ñ‰úÿÿÿÿ8ÿÃ´â.
+m	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´åâ¯8¹õŸñã.
+m	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îé¿8¹õŸñã.
+M
+java:S1128"7Remove this unused import 'javafx.scene.input.KeyCode'.(ûÊ¢¶
